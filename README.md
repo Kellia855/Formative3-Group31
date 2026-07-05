@@ -6,7 +6,6 @@
 - Part 3 was shared: each member performed one manual iteration.  
 - Goal: demonstrate mathematical concepts with clear explanations, tables and plots.
 
----
 
 ## Part 1: Expectation-Maximization (EM) – Kellia
 - **Dataset:** Galton Families (child heights).  
@@ -18,7 +17,6 @@
 - **Demo:** Posterior classification for test height.  
 - **Key Insight:** Splitting at global mean misclassifies overlapping data; EM provides probabilistic assignments.
 
----
 
 ## Part 2: Bayesian Probability – Henriette
 - **Dataset:** IMDb reviews.  
@@ -30,7 +28,6 @@
 - **Key Insight:** Positive keywords push posterior > 0.5, negative keywords push it < 0.5.  
 - **Impact:** Shows how Bayes’ Theorem updates belief with evidence.
 
----
 
 ## Part 3: Gradient Descent (Manual Calculation) – Aime + All Members
 - **Setup:** Linear regression with parameters m1, m2, b.  
@@ -42,7 +39,6 @@
 - **Observation:** Cost dropped sharply at first, then fine‑tuned toward convergence.  
 - **Key Insight:** Manual iterations build intuition for optimization.
 
----
 
 ## Part 4: Gradient Descent in Code – Eloi
 - **Implementation:** Python with SciPy for derivatives.  
@@ -54,7 +50,6 @@
 - **Key Insight:** Automated gradient descent mirrors manual work, confirming convergence.  
 - **Impact:** Demonstrates optimization efficiency with code.
 
----
 
 ## Contributors
 - Henriette Biziyaremye  
